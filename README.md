@@ -6,7 +6,7 @@
 </head>
 <body>
   <h1 align="center">Evan J. Connolly</h1>
-  <p align="center">A Data Analyst based in Portland, Maine with a background in marketing and a focus on finding insights and communicating with stakeholders.</p>
+  <p align="center">A Data Analyst based in Portland, Maine with a background in marketing and a focus on finding insights and communication.</p>
   
   <br>
   
