@@ -5,16 +5,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h2 align="center">Hello there,</h2>
-  <h1 align="center">I'm Evan.</h1>
+  <h1 align="center">Evan J. Connolly</h1>
+  <p align="center">A Data Analyst based in Portland, Maine with a background in marketing and a focus on finding insights and communicating with stakeholders.</p>
+  
+  <br>
+  
+  <p align="center"><a href="https://drive.google.com/file/d/1VIG0T95z7EYrHyAQV5ZUJXy4N-3Yv0YM/view?usp=sharing">Resume/CV</a> - <a href="https://www.linkedin.com/in/evanconnolly1/">LinkedIn</a></p>
 </body>
 </html>
 
-- 👋 Hi, I’m @evanjconnolly
-- 👀 I’m interested in data analytics, which I am studying at the Roux Instiute in Portland, Maine.
-- 🌱 I’m currently learning python for data-scraping.
-- 📫 Reach me via email: evan.connolly5@gmail.com
-- 😄 Pronouns: he/him
+
+- Currently studying at the Roux Instiute in Portland, Maine.
+- Reach me via email: evan.connolly5@gmail.com
+- Pronouns: he/him
 
 <!---
 evanjconnolly/evanjconnolly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
