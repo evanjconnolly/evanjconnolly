@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <h2 align="center">Hello there,</h2>
+  <h1 align="center">I'm Evan.</h1>
+</body>
+</html>
+
 - 👋 Hi, I’m @evanjconnolly
 - 👀 I’m interested in data analytics, which I am studying at the Roux Instiute in Portland, Maine.
 - 🌱 I’m currently learning python for data-scraping.
